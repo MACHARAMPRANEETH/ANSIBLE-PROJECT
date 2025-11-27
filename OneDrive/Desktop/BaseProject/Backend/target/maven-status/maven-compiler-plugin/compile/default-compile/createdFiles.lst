@@ -1,0 +1,9 @@
+com\melodystream\authservice\controller\AdminController.class
+com\melodystream\authservice\config\CorsConfig$MyCorsConfigurer.class
+com\melodystream\authservice\controller\UserController.class
+com\melodystream\authservice\config\CorsConfig.class
+com\melodystream\authservice\service\UserService.class
+com\melodystream\authservice\AuthserviceApplication.class
+com\melodystream\authservice\config\SecurityConfig.class
+com\melodystream\authservice\model\User.class
+com\melodystream\authservice\repository\UserRepository.class

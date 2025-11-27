@@ -1,0 +1,8 @@
+C:\Users\91703\Desktop\MusicStreamingPlatform\Backend\src\main\java\com\melodystream\authservice\AuthserviceApplication.java
+C:\Users\91703\Desktop\MusicStreamingPlatform\Backend\src\main\java\com\melodystream\authservice\config\CorsConfig.java
+C:\Users\91703\Desktop\MusicStreamingPlatform\Backend\src\main\java\com\melodystream\authservice\config\SecurityConfig.java
+C:\Users\91703\Desktop\MusicStreamingPlatform\Backend\src\main\java\com\melodystream\authservice\controller\AdminController.java
+C:\Users\91703\Desktop\MusicStreamingPlatform\Backend\src\main\java\com\melodystream\authservice\controller\UserController.java
+C:\Users\91703\Desktop\MusicStreamingPlatform\Backend\src\main\java\com\melodystream\authservice\model\User.java
+C:\Users\91703\Desktop\MusicStreamingPlatform\Backend\src\main\java\com\melodystream\authservice\repository\UserRepository.java
+C:\Users\91703\Desktop\MusicStreamingPlatform\Backend\src\main\java\com\melodystream\authservice\service\UserService.java
